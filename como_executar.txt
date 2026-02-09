@@ -1,0 +1,25 @@
+🐍 1. Verificar se o Python está instalado
+
+No terminal, execute:
+
+python3 --version
+
+
+Se não estiver instalado:
+
+sudo apt update
+sudo apt install python3 -y
+
+🔓 2. Conceder permissão de execução ao arquivo .py
+
+chmod +x *.py
+
+👨‍💻☕️ 3. Arquivos Java (código-fonte):
+
+Banco2.java
+
+banco.java
+
+Devem ser compilados com:
+
+javac Banco2.java
