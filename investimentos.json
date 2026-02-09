@@ -1,0 +1,201 @@
+{
+  "1": {
+    "ticker": "PETR4",
+    "nome": "Petrobrás",
+    "valor_mercado": "504,39 B",
+    "pl": "6,26",
+    "p_vp": "1,15",
+    "dividend_yield": "8,59%",
+    "margem_liquida": "15,77%",
+    "setor": "Petróleo, Gás e Biocombustíveis"
+  },
+  "2": {
+    "ticker": "ITUB4",
+    "nome": "Banco Itaú",
+    "valor_mercado": "479,94 B",
+    "pl": "11,37",
+    "p_vp": "2,32",
+    "dividend_yield": "10,48%",
+    "margem_liquida": "11,26%",
+    "setor": "Financeiro"
+  },
+  "3": {
+    "ticker": "VALE3",
+    "nome": "Vale",
+    "valor_mercado": "382,41 B",
+    "pl": "12,67",
+    "p_vp": "1,75",
+    "dividend_yield": "9,04%",
+    "margem_liquida": "14,15%",
+    "setor": "Materiais Básicos"
+  },
+  "4": {
+    "ticker": "ABEV3",
+    "nome": "Ambev",
+    "valor_mercado": "235,01 B",
+    "pl": "14,65",
+    "p_vp": "2,55",
+    "dividend_yield": "7,47%",
+    "margem_liquida": "17,73%",
+    "setor": "Consumo não Cíclico"
+  },
+  "5": {
+    "ticker": "WEGE3",
+    "nome": "Weg",
+    "valor_mercado": "218,22 B",
+    "pl": "33,66",
+    "p_vp": "9,74",
+    "dividend_yield": "4,71%",
+    "margem_liquida": "15,67%",
+    "setor": "Bens Industriais"
+  },"6": {
+    "ticker": "ECOR3",
+    "nome": "Ecorodovias",
+    "valor_mercado": "8,23 B",
+    "pl": "8,92",
+    "p_vp": "1,96",
+    "dividend_yield": "2,61%",
+    "margem_liquida": "8,44%",
+    "setor": "Bens Industriais"
+  },
+  "7": {
+    "ticker": "IGTI3",
+    "nome": "Jereissati",
+    "valor_mercado": "8,10 B",
+    "pl": "6,88",
+    "p_vp": "0,86",
+    "dividend_yield": "2,92%",
+    "margem_liquida": "40,57%",
+    "setor": "Financeiro"
+  },
+  "8": {
+    "ticker": "SLCE3",
+    "nome": "SLC Agrícola",
+    "valor_mercado": "7,99 B",
+    "pl": "13,85",
+    "p_vp": "1,52",
+    "dividend_yield": "9,06%",
+    "margem_liquida": "6,06%",
+    "setor": "Consumo não Cíclico"
+  },
+  "9": {
+    "ticker": "SRNA3",
+    "nome": "Serena Energia S.A.",
+    "valor_mercado": "7,86 B",
+    "pl": "152,16",
+    "p_vp": "1,46",
+    "dividend_yield": "-",
+    "margem_liquida": "0,83%",
+    "setor": "Utilidade Pública"
+  },
+  "10": {
+    "ticker": "POMO4",
+    "nome": "Marcopolo",
+    "valor_mercado": "7,83 B",
+    "pl": "6,69",
+    "p_vp": "1,80",
+    "dividend_yield": "19,66%",
+    "margem_liquida": "13,08%",
+    "setor": "Bens Industriais"
+  },
+  "11": {
+    "ticker": "BRSR6",
+    "nome": "Banco Banrisul",
+    "valor_mercado": "7,53 B",
+    "pl": "5,80",
+    "p_vp": "0,66",
+    "dividend_yield": "8,89%",
+    "margem_liquida": "6,07%",
+    "setor": "Financeiro"
+  },
+  "12": {
+    "ticker": "MGLU3",
+    "nome": "Magazine Luiza",
+    "valor_mercado": "7,52 B",
+    "pl": "20,44",
+    "p_vp": "0,67",
+    "dividend_yield": "3,15%",
+    "margem_liquida": "0,96%",
+    "setor": "Consumo Cíclico"
+  },
+  "13": {
+    "ticker": "DIRR3",
+    "nome": "Direcional Engenharia",
+    "valor_mercado": "7,26 B",
+    "pl": "9,56",
+    "p_vp": "2,97",
+    "dividend_yield": "15,89%",
+    "margem_liquida": "18,79%",
+    "setor": "Consumo Cíclico"
+  },
+  "14": {
+    "ticker": "BRKM5",
+    "nome": "Braskem",
+    "valor_mercado": "7,19 B",
+    "pl": "-1,54",
+    "p_vp": "-2,08",
+    "dividend_yield": "-",
+    "margem_liquida": "-6,44%",
+    "setor": "Materiais Básicos"
+  },
+  "15": {
+    "ticker": "UNIP6",
+    "nome": "Unipar Carbocloro",
+    "valor_mercado": "7,00 B",
+    "pl": "9,03",
+    "p_vp": "2,87",
+    "dividend_yield": "19,89%",
+    "margem_liquida": "14,19%",
+    "setor": "Materiais Básicos"
+  },
+  "16": {
+    "ticker": "VIVA3",
+    "nome": "Vivara",
+    "valor_mercado": "6,63 B",
+    "pl": "8,94",
+    "p_vp": "2,26",
+    "dividend_yield": "4,83%",
+    "margem_liquida": "25,82%",
+    "setor": "Consumo Cíclico"
+  },
+  "17": {
+    "ticker": "HAPV3",
+    "nome": "Hapvida",
+    "valor_mercado": "6,53 B",
+    "pl": "-21,06",
+    "p_vp": "0,13",
+    "dividend_yield": "-",
+    "margem_liquida": "-1,30%",
+    "setor": "Saúde"
+  },
+  "18": {
+    "ticker": "ODPV3",
+    "nome": "Odontoprev",
+    "valor_mercado": "6,17 B",
+    "pl": "10,75",
+    "p_vp": "4,78",
+    "dividend_yield": "8,51%",
+    "margem_liquida": "23,99%",
+    "setor": "Saúde"
+  },
+  "19": {
+    "ticker": "GRND3",
+    "nome": "Grendene",
+    "valor_mercado": "4,47 B",
+    "pl": "6,17",
+    "p_vp": "1,10",
+    "dividend_yield": "34,34%",
+    "margem_liquida": "26,50%",
+    "setor": "Consumo Cíclico"
+  },
+  "20": {
+    "ticker": "IRBR3",
+    "nome": "IRB Brasil",
+    "valor_mercado": "4,73 B",
+    "pl": "8,84",
+    "p_vp": "0,89",
+    "dividend_yield": "-",
+    "margem_liquida": "9,60%",
+    "setor": "Financeiro"
+  }
+}

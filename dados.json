@@ -1,0 +1,45 @@
+{
+    "cpf": {
+        "12345678910": {
+            "nome": "artur",
+            "senha": "1234",
+            "tel": "11",
+            "gmail": "arturkelsantos@gmail.com",
+            "saldo": 6000.0,
+            "investimentos": {
+                "1": {
+                    "ticker": "WEGE3",
+                    "nome": "Weg",
+                    "valor_mercado": "218,22 B",
+                    "pl": "33,66",
+                    "p_vp": "9,74",
+                    "dividend_yield": "4,71%",
+                    "margem_liquida": "15,67%",
+                    "setor": "Bens Industriais"
+                },
+                "2": {
+                    "ticker": "IGTI3",
+                    "nome": "Jereissati",
+                    "valor_mercado": "8,10 B",
+                    "pl": "6,88",
+                    "p_vp": "0,86",
+                    "dividend_yield": "2,92%",
+                    "margem_liquida": "40,57%",
+                    "setor": "Financeiro"
+                },
+                "3": {
+                    "ticker": "PETR4",
+                    "nome": "Petrobrás",
+                    "valor_mercado": "504,39 B",
+                    "pl": "6,26",
+                    "p_vp": "1,15",
+                    "dividend_yield": "8,59%",
+                    "margem_liquida": "15,77%",
+                    "setor": "Petróleo, Gás e Biocombustíveis"
+                }
+            },
+            "poupanca": "",
+            "transferencias": {}
+        }
+    }
+}
